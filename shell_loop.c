@@ -76,7 +76,6 @@ int find_builtin(info_t *info)
 		}
 	return (built_in_ret);
 }
-
 /**
  * find_cmd - finds a command in PATH
  * @info: the parameter & return info struct
